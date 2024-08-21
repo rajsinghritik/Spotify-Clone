@@ -11,7 +11,8 @@
    Ritik Raj
    
    Email:rajsinghritik@gmail.com
-     LinkedIn : linkedin.com/in/ritikraj8
+   
+   LinkedIn : linkedin.com/in/ritikraj8
 
 ## Link :
    url : https://rajsinghritik.github.io/Spotify-Clone/
