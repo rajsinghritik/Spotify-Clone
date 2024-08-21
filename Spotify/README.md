@@ -7,8 +7,8 @@
    2. CSS
 
 ## Author :
-   Akash Deep
-   Email: ad3500476@gmail.com
+   Ritik Raj
+   Email:rajsinghritik@gmail.com
 
 ## Link :
-   url : https://akashdeep023.github.io/Spotify-Clone/
+   url : https://rajsinghritik.github.io/Spotify-Clone/
